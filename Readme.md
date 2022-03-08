@@ -13,10 +13,16 @@
     Implementation of multi-control gate base on Toffoli decomp. 
 
 
+[Results]
+    See final_rep.pdf
+
+
 [Developer]
     Kai-Hsin Wu
 
 [Dependency]
     Cytnx library v0.6.5
+
+
 
 
